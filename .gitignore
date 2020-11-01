@@ -27,6 +27,3 @@ yarn-error.log*
 .vscode
 
 jspm_packages
-
-# Serverless directories
-.serverless
